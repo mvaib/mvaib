@@ -4,7 +4,7 @@
   Hi 👋! My name is Vaibhav Mane
 </h1>
 
-<h3 align="center">Eager and dedicated front-end developer intern From India 🇮🇳</h3>
+<h3 align="center">Eager and dedicated full-stack web developer proficient in Mern Stack  From India 🇮🇳</h3>
 
 <br/>
 
